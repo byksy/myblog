@@ -1,0 +1,36 @@
+baseURL: ""
+languageCode: en-us
+title: Mustafa Büyüksoy
+theme: PaperMod
+
+params:
+  homeInfoParams:
+    Content: 'My thoughts about Programming, Books and various other stuff'
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/mbyksy'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/byksy/'
+    - name: github
+      url: 'https://github.com/byksy'
+
+  cover:
+    linkFullImages: true
+  ShowShareButtons: true
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+
+menu:
+  main: 
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
