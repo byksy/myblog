@@ -1,19 +1,18 @@
 ---
 title: "Database Engineer vs. Backend Developer"
-date: 2022-07-30T17:20:08+03:00
+date: 2022-08-27T17:20:08+03:00
 draft: false
 categories: ["life"]
 slug: database-engineer-vs-backend-engineer
 cover: 
-    image: img/kikod.jpg
+    image: img/dbvsbackend.png
     alt: 'This is a post image'
-    caption: 'This is the caption'
+    
 
 ---
 
-# Database engineer vs Backend Developer
 
-Hello everyone 🙂 This is the first blog on my own website. Before that I write  some blogs on [dev.to](https://dev.to/byksy) and [medium.com](https://mbyksy.medium.com/), you can easily check my past blogs via click these links. My blogs were very messy and I wanted to write from one website. So I change my thoughts forward to my own blog site. 
+Hello everyone. This is the first blog on my own website. Before that I write  some blogs on [dev.to](https://dev.to/byksy) and [medium.com](https://mbyksy.medium.com/), you can easily check my past blogs via click these links. My blogs were very messy and I wanted to write from one website. So I change my thoughts forward to my own blog site. 
 
 ## A new journey
 
@@ -21,7 +20,7 @@ When you start a new job, you have to force yourself to do it. You might think t
 
 Working as a software engineer has been a big chance for my life because it is my childhood dream. After becoming a software engineer, you choose a profession for your career. For example, if you enjoy user interface on the web, your profession may be fronted developer, or want to understand data processing in the software tools you may choose database engineer, administrator, or data engineer. After choosing your profession, generally, you work in this special area, so your job title grows from junior to senior level. It is rare to choose another profession after your title becomes senior. My career is a sample for changing careers after a senior level. In this blog, I talk about why I left the senior database engineer title and continue as a backend developer in my life. Also, you will find what we understand as database engineering and the pros and cons of two different professions. Let’s start.
 
-## Ex-Database Engineer
+## Ex-Database Engineer 
 
 I had 5 years of experience in database engineering and 4 months as a backend developer. I had liked to understand the databases such as SQL Server and PostgreSQL, write efficient queries, functions, and procedures, optimize queries, analyze the performance and monitor the data processing and vice versa. Also, I tried to increase the database performance with load testing using the Jmeter test tool and monitor the metrics on the Grafana dashboards. The load test is known to be a performance test for your application. What I am doing by analyzing the Grafana dashboard is clearly understanding our system capacity or measuring scalability.
 

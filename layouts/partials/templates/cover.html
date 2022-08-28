@@ -1,0 +1,21 @@
+<div class="post-thumbnail">
+    {{ if .Params.cover.image }}
+    <div class="post-thumbnail-image-box">
+        <a href="{{ .Permalink }}">
+            <img{{ with .Params.cover }} class="post-thumbnail-image" src="{{ . }}" {{ end }}
+                alt="{{ .Title }}">
+        </a>
+    </div>
+    {{ end }}
+
+    <div class="post-thumbnail-entry">
+        <h1 class="post-title">
+            <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h1>
+        <span class="post-date">{{ .Date.Format "January 2, 2006" }}</span>
+
+        {{ if .Params.description }}
+        <p class="post-thumbnail-desc">{{ .Params.description }} <a href="{{ .RelPermalink }}">Read More…</a></p>
+        {{ end }}
+    </div>
+</div>
