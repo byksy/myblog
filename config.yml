@@ -4,6 +4,7 @@ title: Mustafa Büyüksoy
 theme: PaperMod
 
 params:
+  env: production
   homeInfoParams:
     Content: 'My thoughts about Programming, Books and various other stuff'
   socialIcons:
@@ -16,9 +17,8 @@ params:
 
   cover:
     linkFullImages: true
-  ShowShareButtons: true
   ShowReadingTime: true
-  ShowPostNavLinks: true
+  
 
 menu:
   main: 
