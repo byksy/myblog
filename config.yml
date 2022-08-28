@@ -16,6 +16,10 @@ params:
       url: 'https://github.com/byksy'
   assets:
     favicon: "img/favicon.ico"
+    favicon16x16:  "img/favicon-16x16.png"
+    favicon32x32:  "img/favicon-16x16.png"
+    apple_touch_icon:  "img/apple-touch-icon.png"
+    safari_pinned_tab:  "img/android-chrome-512x512.png"
 
   cover:
     linkFullImages: true
