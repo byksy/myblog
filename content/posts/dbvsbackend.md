@@ -26,7 +26,7 @@ I had 5 years of experience in database engineering and 4 months as a backend de
 
 One major obstacle for the database engineer in a startup firm is, of course, the repetitive state and stability to be up-to-date with changing technology. But it also helps me understand how database engineer should be in the real world. When I apply for many jobs abroad, they are looking for a database administrator, not a database engineer. Maybe their job title is database engineer but you understand they want to hire a person who maintains the database, monitoring, and automates some processes via Ansible, Powershell, etc. In the real life I was only a SQL developer so as you guessed they didn't hire me 🙂 
 
-### A Backend Engineer?
+### A Backend Developer?
 
 I had a knowledge about the Rest-API modeling and write many lines of code CRUD operations. I was not a backend developer but also I was not a database engineer in the real life. So I decided to leave my comfort zone and choose a real profession. I had a two options: either backend developer or database administrator. I have no concern to the database administrator job because I want to work in startup companies, so I chose the backend developer, there was no in-between. Then I met the Navlungo and changed my life. I have been a backend developer since May 2022 and I’m excited to be part of this fantastic team.
 
