@@ -5,7 +5,7 @@ draft: false
 categories: ["life"]
 slug: database-engineer-vs-backend-engineer
 cover: 
-    image: img/dbvsbackend.png
+    image: img/vs.png
     alt: 'This is a post image'
     
 
