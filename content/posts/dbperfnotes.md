@@ -1,6 +1,6 @@
 ---
 title: "Database Performance Notes"
-date: 2022-07-30T17:20:08+03:00
+date: 2022-09-19T17:20:08+03:00
 draft: false
 categories: ["database performance"]
 slug: database-performance-notes
